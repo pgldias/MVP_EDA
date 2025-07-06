@@ -2,7 +2,7 @@
 
 Este projeto é um MVP de Análise de Dados desenvolvido como parte de uma disciplina de pós-graduação em Ciência de Dados. O objetivo foi aplicar boas práticas de exploração, pré-processamento e documentação de dados, utilizando um conjunto de dados do jogo Counter-Strike: Global Offensive (CS:GO).
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pgldias/MVP_EDA/blob/main/MVP_EDA_final.ipynb)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pgldias/MVP_EDA/blob/main/MVP_EDA.ipynb)
 
 ---
 
